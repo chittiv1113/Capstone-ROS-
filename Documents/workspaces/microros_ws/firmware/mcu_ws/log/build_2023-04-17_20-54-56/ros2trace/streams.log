@@ -1,0 +1,45 @@
+[1.691s] Invoking command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/uros/tracetools/ros2trace': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/prefix_override:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ros2trace build --build-base /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build install --record /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/install.log --single-version-externally-managed
+[2.329s] running egg_info
+[2.330s] creating ../../../build/ros2trace/ros2trace.egg-info
+[2.330s] writing ../../../build/ros2trace/ros2trace.egg-info/PKG-INFO
+[2.332s] writing dependency_links to ../../../build/ros2trace/ros2trace.egg-info/dependency_links.txt
+[2.332s] writing entry points to ../../../build/ros2trace/ros2trace.egg-info/entry_points.txt
+[2.333s] writing requirements to ../../../build/ros2trace/ros2trace.egg-info/requires.txt
+[2.333s] writing top-level names to ../../../build/ros2trace/ros2trace.egg-info/top_level.txt
+[2.333s] writing manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[2.336s] reading manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[2.337s] writing manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[2.339s] running build
+[2.339s] running build_py
+[2.339s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build
+[2.340s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib
+[2.340s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace
+[2.340s] copying ros2trace/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace
+[2.341s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command
+[2.341s] copying ros2trace/command/trace.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command
+[2.343s] copying ros2trace/command/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command
+[2.344s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/api
+[2.345s] copying ros2trace/api/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/api
+[2.349s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.349s]   warnings.warn(
+[2.349s] running install
+[2.349s] running install_lib
+[2.350s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace
+[2.351s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command
+[2.351s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command/trace.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command
+[2.351s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command
+[2.352s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/api
+[2.352s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/api/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/api
+[2.352s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace
+[2.353s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command/trace.py to trace.cpython-310.pyc
+[2.354s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command/__init__.py to __init__.cpython-310.pyc
+[2.354s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/api/__init__.py to __init__.cpython-310.pyc
+[2.355s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/__init__.py to __init__.cpython-310.pyc
+[2.355s] running install_data
+[2.357s] copying package.xml -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/share/ros2trace
+[2.357s] copying resource/ros2trace -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[2.357s] running install_egg_info
+[2.364s] Copying ../../../build/ros2trace/ros2trace.egg-info to /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace-4.1.1-py3.10.egg-info
+[2.364s] running install_scripts
+[2.412s] writing list of installed files to '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/install.log'
+[2.458s] Invoked command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/uros/tracetools/ros2trace' returned '0': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/prefix_override:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ros2trace build --build-base /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/build install --record /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/ros2trace/install.log --single-version-externally-managed

@@ -1,0 +1,14 @@
+{
+  "package_name": "nav_msgs",
+  "non_idl_tuples": [
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:msg/GridCells.msg",
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:msg/MapMetaData.msg",
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:msg/OccupancyGrid.msg",
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:msg/Odometry.msg",
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:msg/Path.msg",
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:srv/GetMap.srv",
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:srv/GetPlan.srv",
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:srv/LoadMap.srv",
+    "/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/nav_msgs:srv/SetMap.srv"
+  ]
+}

@@ -1,0 +1,38 @@
+[1.737s] Invoking command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs_py': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib:${LD_LIBRARY_PATH} PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/prefix_override:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/sensor_msgs_py build --build-base /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build install --record /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log --single-version-externally-managed
+[2.161s] running egg_info
+[2.162s] creating ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info
+[2.163s] writing ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/PKG-INFO
+[2.164s] writing dependency_links to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/dependency_links.txt
+[2.164s] writing requirements to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/requires.txt
+[2.165s] writing top-level names to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/top_level.txt
+[2.165s] writing manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[2.174s] reading manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[2.175s] adding license file 'LICENSE'
+[2.176s] writing manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[2.178s] running build
+[2.179s] running build_py
+[2.179s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build
+[2.179s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib
+[2.179s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[2.179s] copying sensor_msgs_py/numpy_compat.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[2.180s] copying sensor_msgs_py/point_cloud2.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[2.182s] copying sensor_msgs_py/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[2.182s] running install
+[2.183s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.183s]   warnings.warn(
+[2.184s] running install_lib
+[2.185s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[2.186s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/numpy_compat.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[2.186s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/point_cloud2.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[2.187s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py
+[2.188s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/numpy_compat.py to numpy_compat.cpython-310.pyc
+[2.190s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/point_cloud2.py to point_cloud2.cpython-310.pyc
+[2.192s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py/__init__.py to __init__.cpython-310.pyc
+[2.193s] running install_data
+[2.194s] copying resource/sensor_msgs_py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[2.194s] copying package.xml -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/share/sensor_msgs_py
+[2.195s] running install_egg_info
+[2.198s] Copying ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info to /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/sensor_msgs_py-4.2.3-py3.10.egg-info
+[2.199s] running install_scripts
+[2.237s] writing list of installed files to '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log'
+[2.277s] Invoked command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/ros2/common_interfaces/sensor_msgs_py' returned '0': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib:${LD_LIBRARY_PATH} PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/prefix_override:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/sensor_msgs_py build --build-base /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/build install --record /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/sensor_msgs_py/install.log --single-version-externally-managed

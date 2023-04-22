@@ -1,0 +1,22 @@
+[2.471s] Invoking command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/uros/tracetools/test_tracetools_launch': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib:${LD_LIBRARY_PATH} PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/test_tracetools_launch/prefix_override:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/test_tracetools_launch build --build-base /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/test_tracetools_launch/build install --record /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/test_tracetools_launch/install.log --single-version-externally-managed
+[3.094s] running egg_info
+[3.095s] creating ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info
+[3.095s] writing ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/PKG-INFO
+[3.096s] writing dependency_links to ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/dependency_links.txt
+[3.096s] writing requirements to ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/requires.txt
+[3.096s] writing top-level names to ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/top_level.txt
+[3.096s] writing manifest file '../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/SOURCES.txt'
+[3.098s] reading manifest file '../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/SOURCES.txt'
+[3.102s] writing manifest file '../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/SOURCES.txt'
+[3.105s] running build
+[3.105s] running install
+[3.105s] running install_data
+[3.106s] copying package.xml -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/share/test_tracetools_launch
+[3.106s] copying resource/test_tracetools_launch -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[3.106s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.106s]   warnings.warn(
+[3.106s] running install_egg_info
+[3.108s] Copying ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info to /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/test_tracetools_launch-4.1.1-py3.10.egg-info
+[3.108s] running install_scripts
+[3.187s] writing list of installed files to '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/test_tracetools_launch/install.log'
+[3.254s] Invoked command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/uros/tracetools/test_tracetools_launch' returned '0': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib:${LD_LIBRARY_PATH} PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/bin:${PATH} PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/test_tracetools_launch/prefix_override:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/test_tracetools_launch build --build-base /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/test_tracetools_launch/build install --record /home/chittiv1113/Documents/workspaces/microros_ws/firmware/mcu_ws/build/test_tracetools_launch/install.log --single-version-externally-managed

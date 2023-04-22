@@ -1,0 +1,39 @@
+[3.046s] Invoking command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/ament/ament_lint/ament_cppcheck': PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/prefix_override:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build install --record /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log --single-version-externally-managed
+[4.061s] running egg_info
+[4.063s] creating ../../../build/ament_cppcheck/ament_cppcheck.egg-info
+[4.063s] writing ../../../build/ament_cppcheck/ament_cppcheck.egg-info/PKG-INFO
+[4.063s] writing dependency_links to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/dependency_links.txt
+[4.063s] writing entry points to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/entry_points.txt
+[4.063s] writing requirements to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/requires.txt
+[4.063s] writing top-level names to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/top_level.txt
+[4.064s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[4.064s] reading manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[4.064s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[4.064s] running build
+[4.064s] running build_py
+[4.069s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build
+[4.070s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib
+[4.070s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[4.070s] copying ament_cppcheck/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[4.070s] copying ament_cppcheck/main.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[4.071s] running install
+[4.071s] running install_lib
+[4.071s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[4.071s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck/__init__.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[4.071s] copying /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck/main.py -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[4.071s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck/__init__.py to __init__.cpython-310.pyc
+[4.071s] byte-compiling /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck/main.py to main.cpython-310.pyc
+[4.071s] running install_data
+[4.072s] copying package.xml -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_cppcheck
+[4.072s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index
+[4.072s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index
+[4.072s] creating /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index/packages
+[4.072s] copying resource/ament_cppcheck -> /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index/packages
+[4.072s] running install_egg_info
+[4.072s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.072s]   warnings.warn(
+[4.073s] Copying ../../../build/ament_cppcheck/ament_cppcheck.egg-info to /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck-0.12.5-py3.10.egg-info
+[4.073s] running install_scripts
+[4.094s] Installing ament_cppcheck script to /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/bin
+[4.104s] writing list of installed files to '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log'
+[4.584s] Invoked command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/ament/ament_lint/ament_cppcheck' returned '0': PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/prefix_override:/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/build install --record /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log --single-version-externally-managed

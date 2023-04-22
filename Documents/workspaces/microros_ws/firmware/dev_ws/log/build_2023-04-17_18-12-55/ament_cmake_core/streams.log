@@ -1,0 +1,86 @@
+[0.164s] Invoking command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages /usr/bin/cmake /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_core -DCMAKE_INSTALL_PREFIX=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core
+[1.222s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.399s] -- ament_cmake_core 1.3.3
+[1.744s] -- Configuring done
+[1.793s] -- Generating done
+[1.793s] -- Build files have been written to: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core
+[1.893s] Invoked command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core' returned '0': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages /usr/bin/cmake /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_core -DCMAKE_INSTALL_PREFIX=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core
+[1.893s] Invoking command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages /usr/bin/cmake --build /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core -- -j4 -l4
+[2.265s] Invoked command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core' returned '0': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages /usr/bin/cmake --build /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core -- -j4 -l4
+[2.996s] Invoking command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages /usr/bin/cmake --install /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core
+[3.088s] -- Install configuration: ""
+[3.093s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_index/resource_index/package_run_dependencies/ament_cmake_core
+[3.094s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_index/resource_index/parent_prefix_path/ament_cmake_core
+[3.095s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/environment/ament_prefix_path.sh
+[3.095s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/environment/ament_prefix_path.dsv
+[3.096s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/environment/path.sh
+[3.096s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/environment/path.dsv
+[3.096s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/local_setup.bash
+[3.096s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/local_setup.sh
+[3.096s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/local_setup.zsh
+[3.096s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/local_setup.dsv
+[3.097s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/package.dsv
+[3.097s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_index/resource_index/packages/ament_cmake_core
+[3.098s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_core-extras.cmake
+[3.099s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_environment-extras.cmake
+[3.099s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_environment_hooks-extras.cmake
+[3.099s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_index-extras.cmake
+[3.099s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_package_templates-extras.cmake
+[3.099s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_uninstall_target-extras.cmake
+[3.099s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_symlink_install-extras.cmake
+[3.100s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_coreConfig.cmake
+[3.100s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/ament_cmake_coreConfig-version.cmake
+[3.100s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/package.xml
+[3.100s] -- Up-to-date: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake
+[3.101s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core
+[3.101s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/all.cmake
+[3.101s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/assert_file_exists.cmake
+[3.101s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[3.101s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/ament_package.cmake
+[3.101s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/python.cmake
+[3.102s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/ament_register_extension.cmake
+[3.102s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/normalize_path.cmake
+[3.102s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/string_ends_with.cmake
+[3.102s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/list_append_unique.cmake
+[3.102s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/stamp.cmake
+[3.102s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake
+[3.102s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/get_executable_path.cmake
+[3.102s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/templates
+[3.103s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/templates/nameConfig.cmake.in
+[3.103s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/templates/nameConfig-version.cmake.in
+[3.103s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/core/ament_package_xml.cmake
+[3.103s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment
+[3.124s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment/ament_generate_environment.cmake
+[3.124s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment/ament_cmake_environment_package_hook.cmake
+[3.124s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/package_templates
+[3.124s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/package_templates/templates_2_cmake.py
+[3.124s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/index
+[3.124s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/index/ament_index_register_package.cmake
+[3.124s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/index/ament_index_has_resource.cmake
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/index/ament_index_get_resources.cmake
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/index/ament_index_get_prefix_path.cmake
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/index/ament_index_get_resource.cmake
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/index/ament_cmake_index_package_hook.cmake
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/index/ament_index_register_resource.cmake
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks/environment
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks/environment/ament_prefix_path.sh
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks/environment/path.bat
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks/environment/ament_prefix_path.bat
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks/environment/path.sh
+[3.125s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks/ament_cmake_environment_hooks_package_hook.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks/ament_generate_package_environment.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/environment_hooks/ament_environment_hooks.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install_uninstall_script.cmake.in
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install_programs.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install_files.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install/install.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install_targets.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install_append_install_code.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install.cmake.in
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install_directory.cmake
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/uninstall_target
+[3.126s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/uninstall_target/ament_cmake_uninstall_target_append_uninstall_code.cmake
+[3.127s] -- Installing: /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake/uninstall_target/ament_cmake_uninstall_target.cmake.in
+[3.157s] Invoked command in '/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core' returned '0': AMENT_PREFIX_PATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package PYTHONPATH=/home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages /usr/bin/cmake --install /home/chittiv1113/Documents/workspaces/microros_ws/firmware/dev_ws/build/ament_cmake_core

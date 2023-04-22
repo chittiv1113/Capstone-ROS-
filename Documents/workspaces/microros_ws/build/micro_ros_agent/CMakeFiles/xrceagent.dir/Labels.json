@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/CMakeFiles/xrceagent"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/CMakeFiles/xrceagent.rule"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/CMakeFiles/xrceagent-complete.rule"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-build.rule"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-configure.rule"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-download.rule"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-install.rule"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-mkdir.rule"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-patch.rule"
+		},
+		{
+			"file" : "/home/chittiv1113/Documents/workspaces/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"xrceagent"
+		],
+		"name" : "xrceagent"
+	}
+}
