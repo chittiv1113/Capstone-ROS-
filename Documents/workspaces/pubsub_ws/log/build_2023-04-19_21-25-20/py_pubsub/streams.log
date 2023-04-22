@@ -1,0 +1,30 @@
+[1.395s] Invoking command in '/home/chittiv1113/Documents/workspaces/publisher_ws/src/py_pubsub': PYTHONPATH=/home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/prefix_override:/home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/build install --record /home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/install.log --single-version-externally-managed
+[1.701s] running egg_info
+[1.701s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.728s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.728s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.730s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.730s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.763s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.766s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.767s] running build
+[1.767s] running build_py
+[1.768s] copying py_pubsub/publisher_member_function.py -> /home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/build/lib/py_pubsub
+[1.769s] copying py_pubsub/subscriber_member_function.py -> /home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/build/lib/py_pubsub
+[1.769s] running install
+[1.770s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.770s]   warnings.warn(
+[1.770s] running install_lib
+[1.772s] copying /home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.772s] copying /home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.773s] byte-compiling /home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[1.774s] byte-compiling /home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[1.775s] running install_data
+[1.776s] running install_egg_info
+[1.778s] removing '/home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[1.778s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[1.780s] running install_scripts
+[1.813s] Installing listener script to /home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/py_pubsub
+[1.814s] Installing talker script to /home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/py_pubsub
+[1.815s] writing list of installed files to '/home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/install.log'
+[1.881s] Invoked command in '/home/chittiv1113/Documents/workspaces/publisher_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/prefix_override:/home/chittiv1113/Documents/workspaces/publisher_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/build install --record /home/chittiv1113/Documents/workspaces/publisher_ws/build/py_pubsub/install.log --single-version-externally-managed

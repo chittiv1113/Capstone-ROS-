@@ -1,0 +1,27 @@
+[1.383s] Invoking command in '/home/chittiv1113/Documents/workspaces/pubsub_ws/src/py_pubsub': PYTHONPATH=/home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/prefix_override:/home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/build install --record /home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/install.log --single-version-externally-managed
+[1.734s] running egg_info
+[1.735s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.758s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.761s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.765s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.765s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.797s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.802s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.803s] running build
+[1.803s] running build_py
+[1.804s] copying py_pubsub/publisher_member_function.py -> /home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/build/lib/py_pubsub
+[1.804s] running install
+[1.805s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.805s]   warnings.warn(
+[1.806s] running install_lib
+[1.807s] copying /home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.808s] byte-compiling /home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[1.808s] running install_data
+[1.809s] running install_egg_info
+[1.811s] removing '/home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[1.813s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[1.814s] running install_scripts
+[1.837s] Installing listener script to /home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/py_pubsub
+[1.838s] Installing talker script to /home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/py_pubsub
+[1.839s] writing list of installed files to '/home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/install.log'
+[1.890s] Invoked command in '/home/chittiv1113/Documents/workspaces/pubsub_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/prefix_override:/home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/build install --record /home/chittiv1113/Documents/workspaces/pubsub_ws/build/py_pubsub/install.log --single-version-externally-managed

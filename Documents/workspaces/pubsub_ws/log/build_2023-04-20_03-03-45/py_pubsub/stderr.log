@@ -1,0 +1,7 @@
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+  File "/home/chittiv1113/Documents/workspaces/pubsub_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber_member_function.py", line 34
+    if msg.data == BUTTON_PRESS_DETECTED:` 
+                                         ^
+SyntaxError: invalid syntax
+
